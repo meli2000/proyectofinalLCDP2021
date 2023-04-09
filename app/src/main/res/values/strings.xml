@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">proyectofinalLCDP2021</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">La cocina de Polar</string>
+    <string name="nav_header_subtitle">Sistema de pedidos</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Salir</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Pedidos</string>
+    <string name="menu_slideshow">Nosotros</string>
+</resources>
